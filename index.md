@@ -5,7 +5,7 @@
 
 ## B. Titre niveau 2
 
-<div class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="ZErZzxN" data-editable="true" data-user="bricemetthey"  data-prefill='{"title":"Premier test","tags":[],"scripts":[],"stylesheets":[]}'>
+<div class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="ZErZzxN" data-preview="true" data-editable="true" data-user="bricemetthey"  data-prefill='{"title":"Premier test","tags":[],"scripts":[],"stylesheets":[]}'>
   <pre data-lang="html">&lt;body>
   &lt;h1>Chapitre I : Titre premier niveau #1&lt;/h1>
 
