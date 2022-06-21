@@ -1,5 +1,8 @@
-# Les technologies du Web en première NSI
+# Les technologies du Web
 
+***
+# Exercices pratiques - 1ère NSI
+***
 
 
 ## A. Partie HTML
@@ -8,12 +11,19 @@
 - Balises de texte
 - Liens et ressources
 - Balises neutres
-
+- Intégrer des images
+- Les tableaux HTML
 
 
 ## B. Partie CSS
 
 ### Comment CSS peut être structuré ?
+
+- Style Inline
+- Feuille de style Interne
+- Feuille de style Externe
+
+
 
 ### Appliquer un style sur du texte
 
