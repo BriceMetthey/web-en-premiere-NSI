@@ -4,6 +4,7 @@
 
 ## A. Partie HTML
 
+- Titre de section
 - Structuration du texte
 - Balises de texte
 - Liens et ressources
