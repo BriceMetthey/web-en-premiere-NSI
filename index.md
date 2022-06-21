@@ -1,8 +1,5 @@
-# Les technologies du Web
-
-***
 # Exercices pratiques - 1ère NSI
-***
+
 
 
 ## A. Partie HTML
