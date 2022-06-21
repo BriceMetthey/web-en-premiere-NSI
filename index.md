@@ -1,4 +1,6 @@
-# Titre
+# Les technologies du Web
+
+<div align="center">Exercices</div>
 
 ## A. Titre niveau 2
 
