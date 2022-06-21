@@ -4,7 +4,7 @@
 
 ## A. Partie HTML
 
-- Titre de section
+- [Titre de section](html/titre_section.md)
 - Structuration du texte
 - Balises de texte
 - Liens et ressources
